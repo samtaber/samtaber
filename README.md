@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-### im not going to put effort into this. I make plugins that are marginal at best.
-### dont bother dealing with bugs
+### im not going to put effort into this. I make plugins that are marginal at best. dont bother dealing with bugs
 
  🔭 I’m currently working on ...
  🌱 I’m currently learning ...

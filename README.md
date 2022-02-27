@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<a href="https://discord.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="samtaber" height="30" width="40" /></a>  You can add me on Discord at `Taber#0001` 
+<a href="https://discord.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="samtaber" height="30" width="40" /></a>  You can add me on Discord at `Taber#3352` 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=samtaber&show_icons=true)
-<p>🔭 I’m currently working on CraftCadia Network????</p>
+<p>🔭 I’m currently working on a Retail Management System</p>
 <!--
 
 Here are some ideas to get you started:

@@ -4,9 +4,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=samtaber&show_icons=true)
 <p>🔭 I’m currently leading Research and Development for CraftCadia Digital Services, LLC.</p>
-<p>📫 How to reach me: </p>
-<p>sam@craftcadia.com</p>
-<p>@samtaber - Discord</p>
+<p>📫 How to reach me: sam@craftcadia.com</p>
 <!--
 
 Here are some ideas to get you started:

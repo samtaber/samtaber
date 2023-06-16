@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-<a href="https://discord.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="samtaber" height="30" width="40" /></a>  You can add me on Discord at `Taber#1000` 
+<a href="https://discord.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="samtaber" height="30" width="40" /></a>  You can add me on Discord with `@samtaber` 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=samtaber&show_icons=true)
-<p>🔭 I’m currently working on a Retail Management System</p>
+<p>🔭 I’m currently leading Research and Development for CraftCadia Digital Services, LLC.</p>
+<p>📫 How to reach me: </p>
+<p>sam@craftcadia.com</p>
+<p>@samtaber - Discord</p>
 <!--
 
 Here are some ideas to get you started:

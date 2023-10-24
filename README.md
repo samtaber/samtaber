@@ -3,7 +3,7 @@
 <a href="https://discord.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="samtaber" height="30" width="40" /></a>  You can add me on Discord with `@samtaber` 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=samtaber&show_icons=true)
-<p>🔭 I’m currently leading Research and Development for CraftCadia Digital Services, LLC.</p>
+<p>🔭 I’m currently a Network Administrator at W.E. Aubuchon Co., Inc.</p>
 <p>📫 How to reach me: sam@craftcadia.com</p>
 <!--
 
